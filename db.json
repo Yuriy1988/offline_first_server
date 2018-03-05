@@ -1,18 +1,6 @@
 {
   "data": [
     {
-      "id": "c741b847-8d72-458c-a438-7f74235c56da",
-      "key": "some2",
-      "value": "some2",
-      "isSynced": true
-    },
-    {
-      "id": "cff664e9-6a5d-4483-a5c5-dbb39eb5db2b",
-      "key": "some3",
-      "value": "some3",
-      "isSynced": true
-    },
-    {
       "id": "35b4c37a-5747-4e48-8f29-a45a59d3ad81",
       "key": "zxc",
       "value": "zxc",
@@ -35,6 +23,12 @@
       "key": "ddd",
       "value": "ddddddddddd",
       "isSynced": true
+    },
+    {
+      "key": "zd",
+      "value": "sfdsf",
+      "isSynced": true,
+      "id": "6d691675-e0b8-4519-b4fa-47c9a44f2278"
     }
   ]
 }
